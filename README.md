@@ -1,6 +1,6 @@
 <h1 align="center">設計 X 前端開發 X 產品規劃</h1>
-<h2 align="center">斜槓斜到底，學習無止盡</h2>
-<h3 align="left">Programming Languages</h3>
+<h3 align="center">斜槓斜到底，學習無止盡</h3>
+<h4 align="left">Programming Languages</h4>
 <p align="left">
      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
