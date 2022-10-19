@@ -1,5 +1,5 @@
 <h1 align="center">設計 X 前端開發 X 產品規劃</h1>
-<h3 align="center">斜槓斜到底，持續學習，持續進步</h3>
+<h3 align="center">斜槓斜到底，持續學習，持續進化</h3>
 <h4 align="left">Programming Languages</h4>
 <p align="left">
      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
